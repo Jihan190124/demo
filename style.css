@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #fafafa;
+}
+
+#chat p, #messages p {
+  padding: 8px;
+  border-radius: 6px;
+  margin: 5px 0;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+
+form {
+  margin-top: 15px;
+}
+
+button {
+  margin-left: 5px;
+}
